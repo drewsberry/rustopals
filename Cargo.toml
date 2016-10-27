@@ -1,0 +1,6 @@
+[package]
+name = "rustopals_"
+version = "0.1.0"
+authors = ["drewsberry <drew@drewsilcock.co.uk>"]
+
+[dependencies]
