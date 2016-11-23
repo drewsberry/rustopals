@@ -1,5 +1,5 @@
 [package]
-name = "rustopals_"
+name = "rustopals"
 version = "0.1.0"
 authors = ["drewsberry <drew@drewsilcock.co.uk>"]
 
